@@ -215,7 +215,7 @@ a#logo:hover{
     transition: 1s;
 }
 .fixed #logo{
-    font-size: 60px;
+    font-size: 31px;
 }
 .fixed .nav-button{
     margin: 15px 0px;
